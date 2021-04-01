@@ -29,5 +29,6 @@
 		on:play={stopOthers}
 		controls
 		{src}
-	></audio>
+	>
+		<track kind="captions"></audio>
 </article>
